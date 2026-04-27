@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "text": "쉬는 시간에 더 끌리는 건?",
+    "dimension": "EI",
+    "options": [
+      { "label": "친구랑 수다 떨면서 충전", "score": "E" },
+      { "label": "혼자 조용히 쉬면서 충전", "score": "I" }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "팀플 첫 회의에서 나는 보통?",
+    "dimension": "EI",
+    "options": [
+      { "label": "먼저 의견/아이디어를 꺼내는 편", "score": "E" },
+      { "label": "듣고 정리하다가 필요할 때 말하는 편", "score": "I" }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "새로운 과제/프로그램을 배울 때 더 편한 방식은?",
+    "dimension": "SN",
+    "options": [
+      { "label": "예시 따라 하면서 감으로 익힌다", "score": "S" },
+      { "label": "전체 개념/원리를 먼저 이해한다", "score": "N" }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "발표 자료 만들 때 더 중요하다고 느끼는 건?",
+    "dimension": "SN",
+    "options": [
+      { "label": "사실/근거/구체적인 정보", "score": "S" },
+      { "label": "메시지/흐름/핵심 아이디어", "score": "N" }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "문제를 풀 때 더 자주 하는 생각은?",
+    "dimension": "SN",
+    "options": [
+      { "label": "현실적으로 이게 맞나?", "score": "S" },
+      { "label": "다른 방법도 가능하지 않을까?", "score": "N" }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "친구가 고민 상담을 하면 나는?",
+    "dimension": "TF",
+    "options": [
+      { "label": "해결 방법을 정리해서 제안한다", "score": "T" },
+      { "label": "마음을 공감하고 위로부터 한다", "score": "F" }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "조별 과제에서 갈등이 생기면?",
+    "dimension": "TF",
+    "options": [
+      { "label": "기준/규칙을 정해서 공평하게 정리한다", "score": "T" },
+      { "label": "분위기/감정을 고려해서 조율한다", "score": "F" }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "시험/마감이 다가오면 나는?",
+    "dimension": "JP",
+    "options": [
+      { "label": "계획을 세우고 일정대로 처리하면 안정된다", "score": "J" },
+      { "label": "상황 봐가며 유연하게 처리하는 게 편하다", "score": "P" }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "여행/약속을 잡을 때 더 선호하는 건?",
+    "dimension": "JP",
+    "options": [
+      { "label": "시간표/동선까지 미리 정해두기", "score": "J" },
+      { "label": "큰 틀만 정하고 즉흥으로 움직이기", "score": "P" }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "과제를 제출할 때 내 스타일은?",
+    "dimension": "JP",
+    "options": [
+      { "label": "미리 마감 전에 끝내고 점검까지 한다", "score": "J" },
+      { "label": "마감 직전에 집중력이 올라와서 몰아서 한다", "score": "P" }
+    ]
+  }
+]
